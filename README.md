@@ -36,14 +36,11 @@ Ahmed</a></h1>
       </div>
 </p>
 
-## Tech Stack
-
+## 🛠️ Tech Stack
 
 ### 👉 Programming languages
 
 <p align="left"> 
-  
-
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
