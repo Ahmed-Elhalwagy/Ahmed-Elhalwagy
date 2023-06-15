@@ -38,9 +38,9 @@ Ahmed Elhalwagy</a></h1>
 
 ## 🛠️ Tech Stack
 
-### 👉 Programming languages
-<p align="left"> 
-  <a href="https://dart.dev/">
+### ❔ Programming languages
+<p> 
+  <a href="#">
     <img alt="JAVASCRIPT" src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=white&style=for-the-badge"/>
   </a>
 &emsp;
@@ -48,17 +48,14 @@ Ahmed Elhalwagy</a></h1>
     <img alt="Python" src="https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
+<a href="#">
     <img alt="c++" src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </a>
 </p>
 
-### 👉 Frameworks
-<p align="left"> 
-&emsp;
-  <a href="https://react.dev/" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-   </a>
+### ❔ Frameworks
+<p> 
+<a href="https://react.dev/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
   &emsp; 
   <a href="https://expressjs.com/" target="_blank"> 
    <img alt="Express.js" src="https://img.shields.io/badge/Express.Js-000?style=for-the-badge&logo=express&logoColor=white">
@@ -66,9 +63,8 @@ Ahmed Elhalwagy</a></h1>
   &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
+### ❔ Databases & Cloud Hosting
+<p>
 	<a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-01ec64?style=for-the-badge&logo=mongoDB&logoColor=white"/></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -78,9 +74,8 @@ Ahmed Elhalwagy</a></h1>
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
  
- ### 👉 Software & Tools
-<p align="left">
-&emsp;
+ ### ❔ Software & Tools
+<p>
     <a href="https://nodejs.org/"><img alt="Node" src="https://img.shields.io/badge/Node.js-82ba58?style=for-the-badge&logo=node.Js&logoColor=white"></a>
 &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
