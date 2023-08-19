@@ -8,13 +8,11 @@ Ahmed Elhalwagy</a></h1>
 
 - 🔭 I’m a MERN Stack developer
 
-- 👨🏻‍🔬 I’m available for internships, Fyll time or part time job.
+- 👨🏻‍🔬 I’m available for internships, Fully time or part time job.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 💬 Ask me about **Reactjs & Node & Express**
+- 💬 Ask me about **Reactjs & Node & Express & Javascript**
 
 - 📫 How to reach me **ahmed.elhalwagy88@gmail.com**
 
