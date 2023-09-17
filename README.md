@@ -12,7 +12,7 @@ Ahmed Elhalwagy</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs & Node & Express & Javascript**
+- 💬 Ask me about **Reactjs & Node & Express & Javascript & typescript**
 
 - 📫 How to reach me **ahmed.elhalwagy88@gmail.com**
 
