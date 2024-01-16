@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmed-elhalwagy-320481218/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmed-elhalwagy/" target="blank">
 Ahmed Elhalwagy</a></h1>
-<h3 align="center">A passionate Web Developer </h3>
+<h3 align="center">A Tech Enthusiast and cybersecurity Student </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m a MERN Stack developer
+- 🔭 I’m a cybersecurity Studnet 
 
 - 👨🏻‍🔬 I’m available for internships, Fully time or part time job.
 
-- 🤝 I’m available for freelancing.
-
-- 💬 Ask me about **Reactjs & Node & Express & Javascript & typescript**
+- 💬 Ask me about **IT, Networking, Cybersecurity and Devops**
 
 - 📫 How to reach me **ahmed.elhalwagy88@gmail.com**
 
