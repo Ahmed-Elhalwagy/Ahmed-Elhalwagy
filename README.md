@@ -1,90 +1,73 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmed-elhalwagy/" target="blank">
-Ahmed Elhalwagy</a></h1>
-<h3 align="center">A Tech Enthusiast and cybersecurity Student </h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmed-elhalwagy/" target="blank">Ahmed Elhalwagy</a></h1>
+<h3 align="center">Product Engineer · 23 y/o · Building at the intersection of Software, DevOps & AI</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m a cybersecurity Studnet 
+- 🚀 Currently working as a **Product Engineer**
+- 🤝 Open to **collaborations** in Software Engineering, DevOps, AI & Cybersecurity
+- 💬 Ask me about **Software Engineering, DevOps, AI, Cybersecurity**
+- 📫 Reach me at **ahmed.elhalwagy88@gmail.com**
 
-- 👨🏻‍🔬 I’m available for internships, Fully time or part time job.
+---
 
-- 💬 Ask me about **IT, Networking, Cybersecurity and Devops**
-
-- 📫 How to reach me **ahmed.elhalwagy88@gmail.com**
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">you can reach me by: </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me</h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahmed-elhalwagy/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ahmed-Elhalwagy">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21768919/ahmed-el-halwagy">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ahmed.elhalwagy2/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/11o4zlxr_Fubmmwdn2mRb-qdAPcQRfjwU/view?usp=sharing">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ahmed-elhalwagy/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ahmed-Elhalwagy">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21768919/ahmed-el-halwagy">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ahmed.elhalwagy2/">
+      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+    <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/11o4zlxr_Fubmmwdn2mRb-qdAPcQRfjwU/view?usp=sharing">
+      <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+  </div>
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
-### ❔ Programming languages
-<p> 
-  <a href="#">
-    <img alt="JAVASCRIPT" src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript&logoColor=white&style=for-the-badge"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  &emsp;
-<a href="#">
-    <img alt="c++" src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  </a>
-</p>
-
-### ❔ Frameworks
-<p> 
-<a href="https://react.dev/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
-  &emsp; 
-  <a href="https://expressjs.com/" target="_blank"> 
-   <img alt="Express.js" src="https://img.shields.io/badge/Express.Js-000?style=for-the-badge&logo=express&logoColor=white">
-  </a>   
-  &emsp;
-</p>
-
-### ❔ Databases & Cloud Hosting
+### 💻 Programming Languages
 <p>
-	<a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-01ec64?style=for-the-badge&logo=mongoDB&logoColor=white"/></a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
- 
- ### ❔ Software & Tools
-<p>
-    <a href="https://nodejs.org/"><img alt="Node" src="https://img.shields.io/badge/Node.js-82ba58?style=for-the-badge&logo=node.Js&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-&emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-&emsp;
-     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white"></a>
-&emsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 🧩 Frameworks & Libraries
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  &emsp;
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  &emsp;
+  <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
+  &emsp;
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  &emsp;
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  &emsp;
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  &emsp;
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  &emsp;
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  &emsp;
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  &emsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  &emsp;
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
