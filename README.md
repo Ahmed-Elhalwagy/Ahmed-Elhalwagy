@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ahmed-elhalwagy/" target="blank">Ahmed Elhalwagy</a></h1>
-<h3 align="center">Product Engineer · 23 y/o · Building at the intersection of Software, DevOps & AI</h3>
+<h3 align="center">Software Engineer · 24 y/o · Building at the intersection of Software, DevOps & AI</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -8,7 +8,7 @@
 - 🚀 Currently working as a **Product Engineer**
 - 🤝 Open to **collaborations** in Software Engineering, DevOps, AI & Cybersecurity
 - 💬 Ask me about **Software Engineering, DevOps, AI, Cybersecurity**
-- 📫 Reach me at **ahmed.elhalwagy88@gmail.com**
+- 📫 Reach me at **ahmednagyelhalwagy@gmail.com**
 
 ---
 
